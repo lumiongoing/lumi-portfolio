@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Lumi Portfolio",
-  description: "Design foundation for Lumi Huang's portfolio.",
+  description: "Personal portfolio of Lumi Huang, Visual / Web Designer and Creative Developer.",
 };
 
 export default function RootLayout({
